@@ -1,0 +1,28 @@
+# 🍪 Golden Crumb Bakery - Commit Message Template
+# 
+# Format: <type>(<scope>): <description>
+#
+# Types:
+# ✨ feat:     New feature
+# 🐛 fix:      Bug fix
+# 📚 docs:     Documentation changes
+# 🎨 style:    Code style changes (formatting, etc.)
+# ♻️  refactor: Code refactoring
+# 🚀 perf:     Performance improvements
+# ✅ test:     Adding or updating tests
+# 🔧 chore:    Maintenance tasks
+# 🍪 content:  Cookie/bakery content updates
+#
+# Examples:
+# ✨ feat(cookies): add new snickerdoodle recipe
+# 🐛 fix(images): resolve broken cookie image paths
+# 🎨 style(css): improve responsive design for mobile
+# 🍪 content(menu): update seasonal cookie prices
+#
+# Remember to:
+# - Use present tense ("add" not "added")
+# - Keep first line under 50 characters
+# - Include detailed description if needed below
+#
+# This template helps create consistent, meaningful commit messages
+# for the Golden Crumb Bakery website project.
